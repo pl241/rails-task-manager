@@ -7,5 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-# Task.create(title: "Buy grocery")
-# Task.create(title: "")
+Task.create(title: "Buy grocery", content: "Go to Lawson")
+Task.create(title: "Do laundry", content: "200 yen")
+Task.create(title: "Get train ticket", content: "1000 yen")
